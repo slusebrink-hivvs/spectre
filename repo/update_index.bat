@@ -1,0 +1,1 @@
+gem generate_index
